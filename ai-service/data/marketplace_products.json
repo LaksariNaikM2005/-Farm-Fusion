@@ -1,0 +1,229 @@
+[
+    {
+        "name": "High-Yield Hybrid Wheat Seeds",
+        "description": "Premium quality hybrid wheat seeds optimized for northern Indian climates. Disease resistant and high germination rate.",
+        "price": 450,
+        "originalPrice": 500,
+        "category": "seeds",
+        "stock": 500,
+        "unit": "kg",
+        "images": [
+            "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "wheat",
+            "hybrid",
+            "seeds",
+            "high-yield"
+        ],
+        "discount": 10
+    },
+    {
+        "name": "Organic NPK Fertilizer (10-10-10)",
+        "description": "All-purpose organic fertilizer with balanced Nitrogen, Phosphorus, and Potassium for healthy plant growth.",
+        "price": 850,
+        "originalPrice": 1000,
+        "category": "fertilizers",
+        "stock": 200,
+        "unit": "bag (5kg)",
+        "images": [
+            "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "organic",
+            "fertilizer",
+            "NPK",
+            "plant-growth"
+        ],
+        "discount": 15
+    },
+    {
+        "name": "Precision Hand Trowel",
+        "description": "Durable stainless steel hand trowel with ergonomic wooden handle for transplanting and weeding.",
+        "price": 299,
+        "originalPrice": 350,
+        "category": "tools",
+        "stock": 100,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1617576621334-08f395648f82?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "tools",
+            "gardening",
+            "trowel",
+            "hand-tool"
+        ],
+        "discount": 14
+    },
+    {
+        "name": "Neem Oil Bio-Pesticide",
+        "description": "Natural and eco-friendly pest control solution derived from neem seeds. Effective against various pests.",
+        "price": 150,
+        "originalPrice": 180,
+        "category": "pesticides",
+        "stock": 300,
+        "unit": "bottle (500ml)",
+        "images": [
+            "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "pesticide",
+            "neem",
+            "organic",
+            "pest-control"
+        ],
+        "discount": 16
+    },
+    {
+        "name": "Smart Drip Irrigation Kit",
+        "description": "Complete drip irrigation system for up to 50 plants. Saves water and ensures precise watering.",
+        "price": 1200,
+        "originalPrice": 1500,
+        "category": "irrigation",
+        "stock": 50,
+        "unit": "kit",
+        "images": [
+            "https://images.unsplash.com/photo-1592150621344-22d761666cb9?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "irrigation",
+            "water-saving",
+            "drip-system",
+            "automation"
+        ],
+        "discount": 20
+    },
+    {
+        "name": "Heavy Duty Garden Rake",
+        "description": "12-tine steel rake for leveling soil and removing debris from garden beds.",
+        "price": 450,
+        "originalPrice": 550,
+        "category": "tools",
+        "stock": 80,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "tools",
+            "rake",
+            "soil-leveling"
+        ],
+        "discount": 18
+    },
+    {
+        "name": "Power Weeder 4-stroke Engine",
+        "description": "Lightweight and powerful weeder with 4-stroke petrol engine. Ideal for small to medium-sized farms. Reduces manual labor significantly.",
+        "price": 14500,
+        "originalPrice": 16000,
+        "category": "machinery",
+        "stock": 15,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "weeder",
+            "power-tool",
+            "diesel",
+            "heavy-duty"
+        ],
+        "discount": 10
+    },
+    {
+        "name": "Battery-Powered Backpack Sprayer",
+        "description": "Portable 16-liter sprayer with rechargeable battery. Provides consistent pressure and reduces fatigue for farmers.",
+        "price": 2999,
+        "originalPrice": 3499,
+        "category": "irrigation",
+        "stock": 45,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "sprayer",
+            "battery",
+            "portable",
+            "pesticide"
+        ],
+        "discount": 14
+    },
+    {
+        "name": "Solar Water Pump (1 HP)",
+        "description": "Energy-efficient submersible water pump powered by solar energy. Ideal for irrigation in remote areas with no electricity.",
+        "price": 12999,
+        "originalPrice": 15999,
+        "category": "irrigation",
+        "stock": 10,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1592150621344-22d761666cb9?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "solar",
+            "water-pump",
+            "renewable",
+            "agriculture"
+        ],
+        "discount": 18
+    },
+    {
+        "name": "Advanced Soil Testing Kit",
+        "description": "Comprehensive kit for testing soil pH, moisture, and nutrient levels. Includes indicators for N, P, and K.",
+        "price": 899,
+        "originalPrice": 1199,
+        "category": "tools",
+        "stock": 75,
+        "unit": "kit",
+        "images": [
+            "https://images.unsplash.com/photo-1617576621334-08f395648f82?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "testing",
+            "soil-health",
+            "science",
+            "kit"
+        ],
+        "discount": 25
+    },
+    {
+        "name": "Tractor PTO Driven Sprayer (200L)",
+        "description": "Heavy-duty agricultural sprayer with 200-liter tank and PTO-driven pump. Suitable for large-scale spraying operations.",
+        "price": 22500,
+        "originalPrice": 27000,
+        "category": "machinery",
+        "stock": 8,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "sprayer",
+            "tractor",
+            "pto",
+            "commercial"
+        ],
+        "discount": 16  
+    },
+    {
+        "name": "Manual Knapsack Duster",
+        "description": "Lightweight manual duster for applying pesticides and fungicides in small fields. Ergonomic design reduces user fatigue.",
+        "price": 1250,
+        "originalPrice": 1500,
+        "category": "irrigation",
+        "stock": 60,
+        "unit": "unit",
+        "images": [
+            "https://images.unsplash.com/photo-1517966175670-c7ba96f243bc?auto=format&fit=crop&q=80&w=400"
+        ],
+        "tags": [
+            "duster",
+            "manual",
+            "pesticide",
+            "portable"
+        ],
+        "discount": 16  
+    }
+]

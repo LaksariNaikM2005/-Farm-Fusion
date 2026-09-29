@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "description": "A yield-based insurance scheme which aims to provide financial support to farmers suffering from crop loss/damage arising out of unforeseen events.",
+        "benefits": "Financial support for crop loss, subsidized premiums for farmers.",
+        "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas.",
+        "howToApply": "Apply online through the PMFBY portal or via designated banks and insurance agents.",
+        "category": "insurance",
+        "link": "https://pmfby.gov.in/"
+    },
+    {
+        "title": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+        "description": "Income support of Rs. 6,000 per year in three equal installments to all landholding farmer families.",
+        "benefits": "Direct income support of Rs. 6,000 per annum.",
+        "eligibility": "Small and marginal farmer families with combined landholding up to 2 hectares.",
+        "howToApply": "Register on the PM-Kisan portal or through Common Service Centres (CSCs).",
+        "category": "other",
+        "link": "https://pmkisan.gov.in/"
+    },
+    {
+        "title": "Kisan Credit Card (KCC)",
+        "description": "Provides farmers with timely access to credit for their cultivation and other needs including purchase of inputs.",
+        "benefits": "Low interest rates, flexible repayment, coverage for crop insurance.",
+        "eligibility": "All farmers \u2013 individuals/joint borrowers who are owner cultivators.",
+        "howToApply": "Approach any commercial bank, RRB, or cooperative bank to apply.",
+        "category": "loan",
+        "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=1602758"
+    },
+    {
+        "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+        "description": "Focuses on 'Har Khet Ko Pani' (Water for every field) and improving water use efficiency 'Per Drop More Crop'.",
+        "benefits": "Subsidies for micro-irrigation systems like drip and sprinkler irrigation.",
+        "eligibility": "All farmers having own land or leased land.",
+        "howToApply": "Apply through the State Agriculture Department or PMKSY official portal.",
+        "category": "equipment",
+        "link": "https://pmksy.gov.in/"
+    },
+    {
+        "title": "PM-e-NAM (National Agriculture Market)",
+        "description": "A pan-India electronic trading portal which networks the existing APMC mandis to create a unified national market for agricultural commodities.",
+        "benefits": "Provides farmers with better price discovery, eliminates middlemen, and ensures transparency in trade.",
+        "eligibility": "Registered farmers and traders in the participating states.",
+        "howToApply": "Farmers can register through their local Agricultural Produce Market Committee (APMC).",
+        "category": "market",
+        "link": "https://www.eNAM.gov.in/"
+    },
+    {
+        "title": "Soil Health Card Scheme",
+        "description": "The scheme provides soil health cards to farmers which contain information about their soil's nutrient content and recommend appropriate remedial measures.",
+        "benefits": "Promotes balanced use of fertilizers, improves soil health, and increases crop yields.",
+        "eligibility": "All farmers across the country.",
+        "howToApply": "Farmers can get their soil tested at government soil testing laboratories and obtain the card.",
+        "category": "other",
+        "link": "https://soilhealth.dac.gov.in/"
+    },
+    {
+        "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "description": "A national mission for financial inclusion that ensures access to financial services, namely banking, savings & deposit accounts, remittance, credit, insurance, and pension in an affordable manner.",
+        "benefits": "Zero balance accounts, accidental insurance coverage, and easy access to credit.",
+        "eligibility": "All Indian citizens above 10 years of age.",
+        "howToApply": "Open an account at any bank or Common Service Centre (CSC).",
+        "category": "loan",
+        "link": "https://www.pmjdy.gov.in/"
+    },
+    {
+        "title": "Agriculture Infrastructure Fund (AIF)",
+        "description": "A medium- to long-term debt financing facility for investment in building post-harvest management infrastructure and community farming assets.",
+        "benefits": "Subsidized interest rates, credit guarantee, and support for cold storage, processing units, etc.",
+        "eligibility": "Farmers, FPOs, and entrepreneurs involved in agriculture.",
+        "howToApply": "Apply through participating banks and financial institutions.",
+        "category": "loan",
+        "link": "https://aif.dab.gov.in/"
+    },
+    {
+        "title": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "description": "A scheme to promote organic farming in the country by supporting the development of organic production in a participatory mode.",
+        "benefits": "Financial assistance for organic inputs, certification support, and market linkage.",
+        "eligibility": "Farmers willing to adopt organic farming methods.",
+        "howToApply": "Apply through the District Agriculture Officer or State Nodal Agency.",
+        "category": "other",
+        "link": "https://vikaspedia.in/agriculture/organic-farming/paramparagat-krishi-vikas-yojana-pkvy"
+    },
+    {
+        "title": "National Mission for Sustainable Agriculture (NMSA)",
+        "description": "Aims to promote sustainable agriculture through the integration of technology, climate-smart practices, and efficient resource management.",
+        "benefits": "Supports practices like micro-irrigation, soil health management, and farm mechanization.",
+        "eligibility": "All categories of farmers.",
+        "howToApply": "Apply through the State Agriculture Department's online portal.",
+        "category": "equipment",
+        "link": "https://nmsa.dac.gov.in/"
+    }
+]   
